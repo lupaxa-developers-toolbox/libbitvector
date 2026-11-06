@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 
-#define BITVECTOR_VERSION_STRING "0.0.0"
+#define BITVECTOR_VERSION_STRING "0.1.0-rc1"
 
 /* BITVECTOR_OK is success. BITVECTOR_NOMEM means allocation failed.
    bitvector_create and bitvector_from_string set the out-pointer to NULL.
